@@ -1,4 +1,6 @@
-
+"""
+Меняет текст в буфере обмена,меняя раскладку для латинских букв =)
+"""
 import pyperclip
 spam = pyperclip.paste()
 #print(spam)
